@@ -1,80 +1,12 @@
-## 40k Pack
-
-![40k pack](https://raw.githubusercontent.com/Hecter94/EndlessSky-PluginArchive/main/Working/All%20Plugins/40k%20Pack/icon.png)
-
-**Created by 1010Todd**
-
-Warhammer 40k mod for Endless Sky. Adds ships, outfits, missions and systems to the game.
-
-**Status**
-
-In development and playable on 0.9.15 Continuous.
-
-## 50 Cal
-
-![50 Cal](https://raw.githubusercontent.com/Hecter94/EndlessSky-PluginArchive/main/Working/All%20Plugins/50%20cal/images/outfit/m2%20browning%20dual.png)
-
-**Created by 1010Todd**
-
-Adds the M2 Browning as a ship outfit and H2H.
-
-**Status**
-
-Complete and playable on 0.9.15 Continuous.
-
-## A Galaxy Far Far Away
-
-![agffa](https://raw.githubusercontent.com/Hecter94/EndlessSky-PluginArchive/main/Working/All%20Plugins/A%20Galaxy%20Far%20Far%20Away/icon.png)
-
-**Created by Ember369**
-
-A mod designed to replicate Star Wars in Endless Sky.
-
-**Status**
-
-Unfinished but playable.
-
-## AES Aben
-
-![aben](https://raw.githubusercontent.com/Hecter94/EndlessSky-PluginArchive/main/Working/All%20Plugins/AES%20Aben/icon.png)
-
-**Created by Darcy Manoel**
-
--description-
-
-**Status**
-
-## AES Fallen
-
-![fallen](https://raw.githubusercontent.com/Hecter94/EndlessSky-PluginArchive/main/Working/All%20Plugins/AES%20Fallen/icon.png)
-
-**Created by Darcy Manoel**
-
--description-
-
-**Status**
-
--status-
-
-## AES Irm
-
-![irm](https://raw.githubusercontent.com/Hecter94/EndlessSky-PluginArchive/main/Working/All%20Plugins/AES%20Irm/icon.png)
-
-**Created by Darcy Manoel**
-
--description-
-
-**Status**
-
--status-
-
-## AES Misc
-
-![aesmisc](https://raw.githubusercontent.com/Hecter94/EndlessSky-PluginArchive/main/Working/All%20Plugins/AES%20Misc/icon.png)
-
-**Created by Darcy Manoel**
-
--description-
+|   | Name  |Author  |Description   |**Status** |
+|---|---|---|---|---|
+|![40k pack](https://raw.githubusercontent.com/Hecter94/EndlessSky-PluginArchive/main/Working/All%20Plugins/40k%20Pack/icon.png)|## 40k Pack|**Created by 1010Todd**|Warhammer 40k mod for Endless Sky. Adds ships, outfits, missions and systems to the game.|In development and playable on 0.9.15 Continuous.
+|![50 Cal](https://raw.githubusercontent.com/Hecter94/EndlessSky-PluginArchive/main/Working/All%20Plugins/50%20cal/images/outfit/m2%20browning%20dual.png)|## 50 Cal|**Created by 1010Todd**||Complete and playable on 0.9.15 Continuous.
+|![agffa](https://raw.githubusercontent.com/Hecter94/EndlessSky-PluginArchive/main/Working/All%20Plugins/A%20Galaxy%20Far%20Far%20Away/icon.png)   | ## A Galaxy Far Far Away  | **Created by Ember369**  | A mod designed to replicate Star Wars in Endless Sky.  |Unfinished but playable.|
+| ![aben](https://raw.githubusercontent.com/Hecter94/EndlessSky-PluginArchive/main/Working/All%20Plugins/AES%20Aben/icon.png)  | ## AES Aben  | **Created by Darcy Manoel**  | -description-  | -status-
+| ![fallen](https://raw.githubusercontent.com/Hecter94/EndlessSky-PluginArchive/main/Working/All%20Plugins/AES%20Fallen/icon.png)|## AES Fallen |**Created by Darcy Manoel** |-description-|-status- | 
+|![irm](https://raw.githubusercontent.com/Hecter94/EndlessSky-PluginArchive/main/Working/All%20Plugins/AES%20Irm/icon.png)|## AES Irm|**Created by Darcy Manoel**|-description-|-status-|
+|![aesmisc](https://raw.githubusercontent.com/Hecter94/EndlessSky-PluginArchive/main/Working/All%20Plugins/AES%20Misc/icon.png) | ## AES Misc|**Created by Darcy Manoel** |-description- | -status-|
 
 **Status**
 
